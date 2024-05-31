@@ -8,7 +8,6 @@ Ini adalah Website E-Commerce yang menggunakan teknologi sebagai berikut:
 <img width="300" alt="image" src="https://github.com/Muhaftharalgiffari/Website-E-commerce/assets/97682546/0eb24770-15b5-48e0-9e77-f2e256f174a3">
 <img width="290" alt="image" src="https://github.com/Muhaftharalgiffari/Website-E-commerce/assets/97682546/7426103f-c47e-4036-93e7-07790ea76725">
 <img width="290" alt="image" src="https://github.com/Muhaftharalgiffari/Website-E-commerce/assets/97682546/d98e8a31-bb51-4f59-97a7-c72c901425de">
-<img width="300" alt="image" src="https://github.com/Muhaftharalgiffari/Website-E-commerce/assets/97682546/445fb070-b35e-46e7-817d-19bcc651572e">
 <img width="300" alt="image" src="https://github.com/Muhaftharalgiffari/Website-E-commerce/assets/97682546/fec0a002-a2ce-4418-b5fb-4ca10dd391b8">
 
 
